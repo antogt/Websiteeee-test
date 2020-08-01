@@ -1,0 +1,60 @@
+body{
+	margin: 0;
+	font-size: 20px;
+	line-height: 30px;
+}
+
+header{
+	background-color: #C1B4D6;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+h1, h2{
+	font-family: 'Mr Dafoe', cursive;
+}
+
+header h1{
+	color: #000000;
+	font-size: 50px
+}
+
+main{
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 25px;
+}
+
+main img{
+	max-width: 100%;
+}
+
+h2{
+	font-size: 30px;
+	color: #C1B4D6;
+}
+
+a{
+	color: #C1B4D6;
+}
+
+a:hover{
+	color: #000000; 
+}
+
+footer{
+	background-color: #C1B4D6;
+	text-align: center;
+	padding: 20px;
+}
+
+footer p{
+	margin: 0;
+}
+
+p.caption{
+	color: #999999;
+	font-style: italic;
+	margin-top: 0; 
+}
